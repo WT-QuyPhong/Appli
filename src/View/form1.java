@@ -1,4 +1,4 @@
-package View;
+package View; //Sai hết rồi ku
 
 import Model.ff1;
 import java.util.ArrayList;
