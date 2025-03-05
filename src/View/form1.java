@@ -1,7 +1,7 @@
 package View; //Sai hết rồi ku
 
 import Model.ff1;
-import java.util.ArrayList;
+import java.util.ArrayList; //SAIIIIIIIIIIIIIIIIII
 import javax.swing.JOptionPane;
 
 public class form1 extends javax.swing.JFrame {
